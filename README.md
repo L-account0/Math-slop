@@ -25,7 +25,7 @@ It also supports exact counting without enumerating the output.
 Byline and signing fingerprint `82C6 65A0 F85E 0FFA 1735 B4EC C631 F3C6 C291 455A`.
 
 
-## [From formal Semaev polynomials to the sparse permanent](preprints/From-Formal-Semaev-Polynomials-to-the-Sparse-Permanent-November-25-2026/paper.pdf)
+## From formal Semaev polynomials to the sparse permanent
 
 Draft for specialist review.
 
